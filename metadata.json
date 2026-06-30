@@ -1,0 +1,6 @@
+{
+  "name": "CandidateForge",
+  "description": "Multi-Source Candidate Data Transformer for Eightfold Engineering: ingests structured/unstructured files and APIs to merge into a single, canonical, high-fidelity profile with complete provenance tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
